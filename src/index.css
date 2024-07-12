@@ -1,0 +1,102 @@
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
+.card1{
+  max-width: 18rem;
+  margin-right: 15px;
+  background-color: black;
+}
+.adjust{
+  margin:30px;
+}
+.adju{
+  background-color: purple;
+}
+.text-secondar{
+  color: white;
+}
+.pavan{
+  color: pink;
+}
+.submit{
+  margin:20px;
+  border:none;
+  background-color: blue;
+  color:white;
+  border-radius: 10px;
+
+}
+.image{
+  width:180px;
+  
+}
+.rate{
+  font-size: large;
+  font-weight: 1000;
+  font-style: italic;
+  
+}
+.first{
+  margin-bottom: 50px;
+}
+
+.cart{
+  border: none;
+  background-color: yellow;
+  color: #0f1111;
+  border-radius: 30px;
+  text-align: center;
+  padding: 10px;
+}
+.col1{
+  width:30%;
+}
+.col2{
+  width:70%;
+}
+.regid{
+  box-shadow: 10px 10px 10px 10px gray;
+}
+.background-imag{
+  background-image: url('https://images.unsplash.com/photo-1548413935-a7d015ff5865?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxleHBsb3JlLWZlZWR8MXx8fGVufDB8fHx8fA%3D%3D');
+  background-size: cover;
+  background-position: 100%;
+  background-repeat: repeat;
+  height:800px;
+
+  
+}
+body{
+  width: 100%;
+  height:100%;
+}
+h1,h6{
+  color:white;
+}
+.alignn{
+  margin-top: 200px;
+}
+contact-info{
+  color: white;
+}
+.background-imag1{
+ 
+  background-image: url('https://cdn.vectorstock.com/i/preview-1x/04/44/initial-dk-letter-lion-royal-luxury-heraldiccrest-vector-38290444.jpg');
+  background-size: cover;
+  background-position: 100%;
+  background-repeat: repeat;
+  height:800px;
+}
+.nav1{
+  margin-left: 60%;
+}
